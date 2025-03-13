@@ -1,6 +1,6 @@
 The Titanic dataset is a well-known dataset used for classification tasks. The objective of this project is to predict whether a passenger **survived (1) or not (0)** based on different factors.
 
-### 🎯 Key Objectives:
+###  Key Objectives:
 - Perform **data preprocessing** and **feature engineering**.
 - Train and evaluate **machine learning models** for binary classification.
 - Compare different models and optimize performance.
@@ -8,9 +8,9 @@ The Titanic dataset is a well-known dataset used for classification tasks. The o
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
-- **Programming Language**: Python 🐍
+- **Programming Language**: Python 
 - **Libraries**:
   - Data Handling: Pandas, NumPy
   - Visualization: Matplotlib, Seaborn
